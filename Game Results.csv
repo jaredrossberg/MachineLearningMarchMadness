@@ -1,0 +1,734 @@
+Rk,Year,Date,Region,Round,School,PTS,Opponent,PTS,OT,Diff,Location
+1,2021,April 5 2021,National,National Final,1 Baylor,86,1 Gonzaga,70,,+16,Indianapolis IN
+2,2021,April 3 2021,National,National Semifinal,1 Gonzaga,93,11 UCLA,90,OT,+3,Indianapolis IN
+3,2021,April 3 2021,National,National Semifinal,1 Baylor,78,2 Houston,59,,+19,Indianapolis IN
+4,2021,March 30 2021,East,Regional Final,11 UCLA,51,1 Michigan,49,,+2,Indianapolis IN
+5,2021,March 30 2021,West,Regional Final,1 Gonzaga,85,6 USC,66,,+19,Indianapolis IN
+6,2021,March 29 2021,Midwest,Regional Final,2 Houston,67,12 Oregon State,61,,+6,Indianapolis IN
+7,2021,March 29 2021,South,Regional Final,1 Baylor,81,3 Arkansas,72,,+9,Indianapolis IN
+8,2021,March 28 2021,East,Regional Semifinal,11 UCLA,88,2 Alabama,78,OT,+10,Indianapolis IN
+9,2021,March 28 2021,West,Regional Semifinal,6 USC,82,7 Oregon,68,,+14,Indianapolis IN
+10,2021,March 28 2021,East,Regional Semifinal,1 Michigan,76,4 Florida State,58,,+18,Indianapolis IN
+11,2021,March 28 2021,West,Regional Semifinal,1 Gonzaga,83,5 Creighton,65,,+18,Indianapolis IN
+12,2021,March 27 2021,Midwest,Regional Semifinal,12 Oregon State,65,8 Loyola (IL),58,,+7,Indianapolis IN
+13,2021,March 27 2021,Midwest,Regional Semifinal,2 Houston,62,11 Syracuse,46,,+16,Indianapolis IN
+14,2021,March 27 2021,South,Regional Semifinal,1 Baylor,62,5 Villanova,51,,+11,Indianapolis IN
+15,2021,March 27 2021,South,Regional Semifinal,3 Arkansas,72,15 Oral Roberts,70,,+2,Indianapolis IN
+16,2021,March 22 2021,East,Second Round,11 UCLA,67,14 Abilene Christian,47,,+20,Indianapolis IN
+17,2021,March 22 2021,West,Second Round,6 USC,85,3 Kansas,51,,+34,Indianapolis IN
+18,2021,March 22 2021,West,Second Round,7 Oregon,95,2 Iowa,80,,+15,Indianapolis IN
+19,2021,March 22 2021,East,Second Round,1 Michigan,86,8 LSU,78,,+8,Indianapolis IN
+20,2021,March 22 2021,West,Second Round,1 Gonzaga,87,8 Oklahoma,71,,+16,Indianapolis IN
+21,2021,March 22 2021,East,Second Round,4 Florida State,71,5 Colorado,53,,+18,Indianapolis IN
+22,2021,March 22 2021,West,Second Round,5 Creighton,72,13 Ohio,58,,+14,Indianapolis IN
+23,2021,March 22 2021,East,Second Round,2 Alabama,96,10 Maryland,77,,+19,Indianapolis IN
+24,2021,March 21 2021,South,Second Round,5 Villanova,84,13 North Texas,61,,+23,Indianapolis IN
+25,2021,March 21 2021,Midwest,Second Round,11 Syracuse,75,3 West Virginia,72,,+3,Indianapolis IN
+26,2021,March 21 2021,Midwest,Second Round,12 Oregon State,80,4 Oklahoma State,70,,+10,Indianapolis IN
+27,2021,March 21 2021,South,Second Round,15 Oral Roberts,81,7 Florida,78,,+3,Indianapolis IN
+28,2021,March 21 2021,Midwest,Second Round,8 Loyola (IL),71,1 Illinois,58,,+13,Indianapolis IN
+29,2021,March 21 2021,Midwest,Second Round,2 Houston,63,10 Rutgers,60,,+3,Indianapolis IN
+30,2021,March 21 2021,South,Second Round,1 Baylor,76,9 Wisconsin,63,,+13,Indianapolis IN
+31,2021,March 21 2021,South,Second Round,3 Arkansas,68,6 Texas Tech,66,,+2,Indianapolis IN
+32,2021,March 20 2021,East,First Round,11 UCLA,73,6 BYU,62,,+11,Indianapolis IN
+33,2021,March 20 2021,West,First Round,6 USC,72,11 Drake,56,,+16,Indianapolis IN
+34,2021,March 20 2021,West,First Round,8 Oklahoma,72,9 Missouri,68,,+4,Indianapolis IN
+35,2021,March 20 2021,West,First Round,13 Ohio,62,4 Virginia,58,,+4,Bloomington IN
+36,2021,March 20 2021,East,First Round,1 Michigan,82,16 Texas Southern,66,,+16,West Lafayette IN
+37,2021,March 20 2021,East,First Round,10 Maryland,63,7 UConn,54,,+9,West Lafayette IN
+38,2021,March 20 2021,East,First Round,8 LSU,76,9 St. Bonaventure,61,,+15,Bloomington IN
+39,2021,March 20 2021,West,First Round,3 Kansas,93,14 Eastern Washington,84,,+9,Indianapolis IN
+40,2021,March 20 2021,West,First Round,2 Iowa,86,15 Grand Canyon,74,,+12,Indianapolis IN
+41,2021,March 20 2021,West,First Round,1 Gonzaga,98,16 Norfolk State,55,,+43,Indianapolis IN
+42,2021,March 20 2021,East,First Round,4 Florida State,64,13 UNC Greensboro,54,,+10,Indianapolis IN
+43,2021,March 20 2021,West,First Round,5 Creighton,63,12 UCSB,62,,+1,Indianapolis IN
+44,2021,March 20 2021,East,First Round,5 Colorado,96,12 Georgetown,73,,+23,Indianapolis IN
+45,2021,March 20 2021,East,First Round,2 Alabama,68,15 Iona,55,,+13,Indianapolis IN
+46,2021,March 20 2021,East,First Round,14 Abilene Christian,53,3 Texas,52,,+1,Indianapolis IN
+47,2021,March 19 2021,South,First Round,9 Wisconsin,85,8 UNC,62,,+23,West Lafayette IN
+48,2021,March 19 2021,Midwest,First Round,3 West Virginia,84,14 Morehead State,67,,+17,Indianapolis IN
+49,2021,March 19 2021,South,First Round,5 Villanova,73,12 Winthrop,63,,+10,Indianapolis IN
+50,2021,March 19 2021,South,First Round,6 Texas Tech,65,11 Utah State,53,,+12,Bloomington IN
+51,2021,March 19 2021,Midwest,First Round,11 Syracuse,78,6 San Diego State,62,,+16,Indianapolis IN
+52,2021,March 19 2021,Midwest,First Round,10 Rutgers,60,7 Clemson,56,,+4,Indianapolis IN
+53,2021,March 19 2021,Midwest,First Round,12 Oregon State,70,5 Tennessee,56,,+14,Indianapolis IN
+54,2021,March 19 2021,South,First Round,15 Oral Roberts,75,2 Ohio State,72,OT,+3,West Lafayette IN
+55,2021,March 19 2021,Midwest,First Round,4 Oklahoma State,69,13 Liberty,60,,+9,Indianapolis IN
+56,2021,March 19 2021,South,First Round,13 North Texas,78,4 Purdue,69,OT,+9,Indianapolis IN
+57,2021,March 19 2021,Midwest,First Round,8 Loyola (IL),71,9 Georgia Tech,60,,+11,Indianapolis IN
+58,2021,March 19 2021,Midwest,First Round,1 Illinois,78,16 Drexel,49,,+29,Indianapolis IN
+59,2021,March 19 2021,Midwest,First Round,2 Houston,87,15 Cleveland State,56,,+31,Bloomington IN
+60,2021,March 19 2021,South,First Round,7 Florida,75,10 Virginia Tech,70,OT,+5,Indianapolis IN
+61,2021,March 19 2021,South,First Round,1 Baylor,79,16 Hartford,55,,+24,Indianapolis IN
+62,2021,March 19 2021,South,First Round,3 Arkansas,85,14 Colgate,68,,+17,Indianapolis IN
+63,2021,March 18 2021,East,First Four,11 UCLA,86,11 Michigan State,80,OT,+6,West Lafayette IN
+64,2021,March 18 2021,East,First Four,16 Texas Southern,60,16 Mount St. Mary's,52,,+8,Bloomington IN
+65,2021,March 18 2021,West,First Four,16 Norfolk State,54,16 Appalachian State,53,,+1,Bloomington IN
+66,2021,March 18 2021,West,First Four,11 Drake,53,11 Wichita State,52,,+1,West Lafayette IN
+67,2019,April 8 2019,National,National Final,1 Virginia,85,3 Texas Tech,77,OT,+8,Minneapolis MN
+68,2019,April 6 2019,National,National Semifinal,1 Virginia,63,5 Auburn,62,,+1,Minneapolis MN
+69,2019,April 6 2019,National,National Semifinal,3 Texas Tech,61,2 Michigan State,51,,+10,Minneapolis MN
+70,2019,March 31 2019,East,Regional Final,2 Michigan State,68,1 Duke,67,,+1,Washington DC
+71,2019,March 31 2019,Midwest,Regional Final,5 Auburn,77,2 Kentucky,71,OT,+6,Kansas City MO
+72,2019,March 30 2019,South,Regional Final,1 Virginia,80,3 Purdue,75,OT,+5,Louisville KY
+73,2019,March 30 2019,West,Regional Final,3 Texas Tech,75,1 Gonzaga,69,,+6,Anaheim CA
+74,2019,March 29 2019,East,Regional Semifinal,2 Michigan State,80,3 LSU,63,,+17,Washington DC
+75,2019,March 29 2019,Midwest,Regional Semifinal,2 Kentucky,62,3 Houston,58,,+4,Kansas City MO
+76,2019,March 29 2019,East,Regional Semifinal,1 Duke,75,4 Virginia Tech,73,,+2,Washington DC
+77,2019,March 29 2019,Midwest,Regional Semifinal,5 Auburn,97,1 UNC,80,,+17,Kansas City MO
+78,2019,March 28 2019,South,Regional Semifinal,1 Virginia,53,12 Oregon,49,,+4,Louisville KY
+79,2019,March 28 2019,West,Regional Semifinal,3 Texas Tech,63,2 Michigan,44,,+19,Anaheim CA
+80,2019,March 28 2019,South,Regional Semifinal,3 Purdue,99,2 Tennessee,94,OT,+5,Louisville KY
+81,2019,March 28 2019,West,Regional Semifinal,1 Gonzaga,72,4 Florida State,58,,+14,Anaheim CA
+82,2019,March 24 2019,East,Second Round,4 Virginia Tech,67,12 Liberty,58,,+9,San Jose CA
+83,2019,March 24 2019,South,Second Round,1 Virginia,63,9 Oklahoma,51,,+12,Columbia SC
+84,2019,March 24 2019,West,Second Round,3 Texas Tech,78,6 Buffalo,58,,+20,Tulsa OK
+85,2019,March 24 2019,South,Second Round,2 Tennessee,83,10 Iowa,77,OT,+6,Columbus OH
+86,2019,March 24 2019,South,Second Round,12 Oregon,73,13 UC-Irvine,54,,+19,San Jose CA
+87,2019,March 24 2019,Midwest,Second Round,1 UNC,81,9 Washington,59,,+22,Columbus OH
+88,2019,March 24 2019,Midwest,Second Round,3 Houston,74,11 Ohio State,59,,+15,Tulsa OK
+89,2019,March 24 2019,East,Second Round,1 Duke,77,9 UCF,76,,+1,Columbia SC
+90,2019,March 23 2019,South,Second Round,3 Purdue,87,6 Villanova,61,,+26,Hartford CT
+91,2019,March 23 2019,East,Second Round,2 Michigan State,70,10 Minnesota,50,,+20,Des Moines IA
+92,2019,March 23 2019,West,Second Round,2 Michigan,64,10 Florida,49,,+15,Des Moines IA
+93,2019,March 23 2019,East,Second Round,3 LSU,69,6 Maryland,67,,+2,Jacksonville FL
+94,2019,March 23 2019,Midwest,Second Round,2 Kentucky,62,7 Wofford,56,,+6,Jacksonville FL
+95,2019,March 23 2019,West,Second Round,1 Gonzaga,83,9 Baylor,71,,+12,Salt Lake City UT
+96,2019,March 23 2019,West,Second Round,4 Florida State,90,12 Murray State,62,,+28,Hartford CT
+97,2019,March 23 2019,Midwest,Second Round,5 Auburn,89,4 Kansas,75,,+14,Salt Lake City UT
+98,2019,March 22 2019,Midwest,First Round,9 Washington,78,8 Utah State,61,,+17,Columbus OH
+99,2019,March 22 2019,East,First Round,4 Virginia Tech,66,13 Saint Louis,52,,+14,San Jose CA
+100,2019,March 22 2019,South,First Round,1 Virginia,71,16 Gardner-Webb,56,,+15,Columbia SC
+101,2019,March 22 2019,South,First Round,12 Oregon,72,5 Wisconsin,54,,+18,San Jose CA
+102,2019,March 22 2019,South,First Round,13 UC-Irvine,70,4 Kansas State,64,,+6,San Jose CA
+103,2019,March 22 2019,East,First Round,9 UCF,73,8 VCU,58,,+15,Columbia SC
+104,2019,March 22 2019,East,First Round,4 Virginia Tech,66,13 Saint Louis,52,,+14,San Jose CA
+105,2019,March 22 2019,South,First Round,1 Virginia,71,16 Gardner-Webb,56,,+15,Columbia SC
+106,2019,March 22 2019,Midwest,First Round,3 Houston,84,14 Georgia State,55,,+29,Tulsa OK
+107,2019,March 22 2019,East,First Round,12 Liberty,80,5 Mississippi State,76,,+4,San Jose CA
+108,2019,March 22 2019,Midwest,First Round,11 Ohio State,62,6 Iowa State,59,,+3,Tulsa OK
+109,2019,March 22 2019,South,First Round,9 Oklahoma,95,8 Ole Miss,72,,+23,Columbia SC
+110,2019,March 22 2019,South,First Round,2 Tennessee,77,15 Colgate,70,,+7,Columbus OH
+111,2019,March 22 2019,East,First Round,1 Duke,85,16 North Dakota State,62,,+23,Columbia SC
+112,2019,March 22 2019,Midwest,First Round,9 Washington,78,8 Utah State,61,,+17,Columbus OH
+113,2019,March 22 2019,South,First Round,10 Iowa,79,7 Cincinnati,72,,+7,Columbus OH
+114,2019,March 21 2019,West,First Round,2 Michigan,74,15 Montana,55,,+19,Des Moines IA
+115,2019,March 21 2019,Midwest,First Round,5 Auburn,78,12 New Mexico State,77,,+1,Salt Lake City UT
+116,2019,March 21 2019,East,First Round,6 Maryland,79,11 Belmont,77,,+2,Jacksonville FL
+117,2019,March 21 2019,South,First Round,6 Villanova,61,11 Saint Mary's,57,,+4,Hartford CT
+118,2019,March 21 2019,West,First Round,9 Baylor,78,8 Syracuse,69,,+9,Salt Lake City UT
+119,2019,March 21 2019,Midwest,First Round,4 Kansas,87,13 Northeastern,53,,+34,Salt Lake City UT
+120,2019,March 21 2019,East,First Round,10 Minnesota,86,7 Louisville,76,,+10,Des Moines IA
+121,2019,March 21 2019,Midwest,First Round,7 Wofford,84,10 Seton Hall,68,,+16,Jacksonville FL
+122,2019,March 21 2019,South,First Round,3 Purdue,61,14 Old Dominion,48,,+13,Hartford CT
+123,2019,March 21 2019,East,First Round,2 Michigan State,76,15 Bradley,65,,+11,Des Moines IA
+124,2019,March 21 2019,East,First Round,3 LSU,79,14 Yale,74,,+5,Jacksonville FL
+125,2019,March 21 2019,Midwest,First Round,2 Kentucky,79,15 Abilene Christian,44,,+35,Jacksonville FL
+126,2019,March 21 2019,West,First Round,10 Florida,70,7 Nevada,61,,+9,Des Moines IA
+127,2019,March 21 2019,West,First Round,4 Florida State,76,13 Vermont,69,,+7,Hartford CT
+128,2019,March 21 2019,West,First Round,12 Murray State,83,5 Marquette,64,,+19,Hartford CT
+129,2019,March 21 2019,West,First Round,1 Gonzaga,87,16 Fairleigh Dickinson,49,,+38,Salt Lake City UT
+130,2019,March 20 2019,East,First Four,16 North Dakota State,78,16 North Carolina Central,74,,+4,Dayton OH
+131,2019,March 20 2019,West,First Four,11 Arizona State,74,11 St. John's (NY),65,,+9,Dayton OH
+132,2019,March 19 2019,East,First Four,11 Belmont,81,11 Temple,70,,+11,Dayton OH
+133,2019,March 19 2019,West,First Four,16 Fairleigh Dickinson,82,16 Prairie View,76,,+6,Dayton OH
+134,2018,April 2 2018,National,National Final,1 Villanova,79,3 Michigan,62,,+17,San Antonio TX
+135,2018,March 31 2018,National,National Semifinal,1 Villanova,95,1 Kansas,79,,+16,San Antonio TX
+136,2018,March 31 2018,National,National Semifinal,3 Michigan,69,11 Loyola (IL),57,,+12,San Antonio TX
+137,2018,March 25 2018,East,Regional Final,1 Villanova,71,3 Texas Tech,59,,+12,Boston MA
+138,2018,March 25 2018,Midwest,Regional Final,1 Kansas,85,2 Duke,81,OT,+4,Omaha NE
+139,2018,March 24 2018,South,Regional Final,11 Loyola (IL),78,9 Kansas State,62,,+16,Atlanta GA
+140,2018,March 24 2018,West,Regional Final,3 Michigan,58,9 Florida State,54,,+4,Los Angeles CA
+141,2018,March 23 2018,East,Regional Semifinal,3 Texas Tech,78,2 Purdue,65,,+13,Boston MA
+142,2018,March 23 2018,Midwest,Regional Semifinal,1 Kansas,80,5 Clemson,76,,+4,Omaha NE
+143,2018,March 23 2018,Midwest,Regional Semifinal,2 Duke,69,11 Syracuse,65,,+4,Omaha NE
+144,2018,March 23 2018,East,Regional Semifinal,1 Villanova,90,5 West Virginia,78,,+12,Boston MA
+145,2018,March 22 2018,South,Regional Semifinal,9 Kansas State,61,5 Kentucky,58,,+3,Atlanta GA
+146,2018,March 22 2018,South,Regional Semifinal,11 Loyola (IL),69,7 Nevada,68,,+1,Atlanta GA
+147,2018,March 22 2018,West,Regional Semifinal,3 Michigan,99,7 Texas A&M,72,,+27,Los Angeles CA
+148,2018,March 22 2018,West,Regional Semifinal,9 Florida State,75,4 Gonzaga,60,,+15,Los Angeles CA
+149,2018,March 18 2018,South,Second Round,7 Nevada,75,2 Cincinnati,73,,+2,Nashville TN
+150,2018,March 18 2018,South,Second Round,9 Kansas State,50,16 UMBC,43,,+7,Charlotte NC
+151,2018,March 18 2018,Midwest,Second Round,5 Clemson,84,4 Auburn,53,,+31,San Diego CA
+152,2018,March 18 2018,Midwest,Second Round,11 Syracuse,55,3 Michigan State,53,,+2,Detroit MI
+153,2018,March 18 2018,West,Second Round,9 Florida State,75,1 Xavier,70,,+5,Nashville TN
+154,2018,March 18 2018,East,Second Round,2 Purdue,76,10 Butler,73,,+3,Detroit MI
+155,2018,March 18 2018,West,Second Round,7 Texas A&M,86,2 UNC,65,,+21,Charlotte NC
+156,2018,March 18 2018,East,Second Round,5 West Virginia,94,13 Marshall,71,,+23,San Diego CA
+157,2018,March 17 2018,Midwest,Second Round,1 Kansas,83,8 Seton Hall,79,,+4,Wichita KS
+158,2018,March 17 2018,West,Second Round,3 Michigan,64,6 Houston,63,,+1,Wichita KS
+159,2018,March 17 2018,East,Second Round,3 Texas Tech,69,6 Florida,66,,+3,Dallas TX
+160,2018,March 17 2018,Midwest,Second Round,2 Duke,87,7 Rhode Island,62,,+25,Pittsburgh PA
+161,2018,March 17 2018,South,Second Round,11 Loyola (IL),63,3 Tennessee,62,,+1,Dallas TX
+162,2018,March 17 2018,East,Second Round,1 Villanova,81,9 Alabama,58,,+23,Pittsburgh PA
+163,2018,March 17 2018,South,Second Round,5 Kentucky,95,13 Buffalo,75,,+20,Boise ID
+164,2018,March 17 2018,West,Second Round,4 Gonzaga,90,5 Ohio State,84,,+6,Boise ID
+165,2018,March 16 2018,South,First Round,7 Nevada,87,10 Texas,83,OT,+4,Nashville TN
+166,2018,March 16 2018,Midwest,First Round,4 Auburn,62,13 College of Charleston,58,,+4,San Diego CA
+167,2018,March 16 2018,South,First Round,16 UMBC,74,1 Virginia,54,,+20,Charlotte NC
+168,2018,March 16 2018,West,First Round,7 Texas A&M,73,10 Providence,69,,+4,Charlotte NC
+169,2018,March 16 2018,Midwest,First Round,11 Syracuse,57,6 TCU,52,,+5,Detroit MI
+170,2018,March 16 2018,East,First Round,10 Butler,79,7 Arkansas,62,,+17,Detroit MI
+171,2018,March 16 2018,South,First Round,2 Cincinnati,68,15 Georgia State,53,,+15,Nashville TN
+172,2018,March 16 2018,Midwest,First Round,5 Clemson,79,12 New Mexico State,68,,+11,San Diego CA
+173,2018,March 16 2018,East,First Round,13 Marshall,81,4 Wichita State,75,,+6,San Diego CA
+174,2018,March 16 2018,West,First Round,2 UNC,84,15 Lipscomb,66,,+18,Charlotte NC
+175,2018,March 16 2018,South,First Round,9 Kansas State,69,8 Creighton,59,,+10,Charlotte NC
+176,2018,March 16 2018,East,First Round,5 West Virginia,85,12 Murray State,68,,+17,San Diego CA
+177,2018,March 16 2018,Midwest,First Round,3 Michigan State,82,14 Bucknell,78,,+4,Detroit MI
+178,2018,March 16 2018,West,First Round,9 Florida State,67,8 Missouri,54,,+13,Nashville TN
+179,2018,March 16 2018,East,First Round,2 Purdue,74,15 Cal State Fullerton,48,,+26,Detroit MI
+180,2018,March 16 2018,West,First Round,1 Xavier,102,16 Texas Southern,83,,+19,Nashville TN
+181,2018,March 15 2018,East,First Round,9 Alabama,86,8 Virginia Tech,83,,+3,Pittsburgh PA
+182,2018,March 15 2018,East,First Round,1 Villanova,87,16 Radford,61,,+26,Pittsburgh PA
+183,2018,March 15 2018,East,First Round,3 Texas Tech,70,14 Stephen F. Austin,60,,+10,Dallas TX
+184,2018,March 15 2018,Midwest,First Round,8 Seton Hall,94,9 NC State,83,,+11,Wichita KS
+185,2018,March 15 2018,South,First Round,13 Buffalo,89,4 Arizona,68,,+21,Boise ID
+186,2018,March 15 2018,West,First Round,6 Houston,67,11 San Diego State,65,,+2,Wichita KS
+187,2018,March 15 2018,South,First Round,11 Loyola (IL),64,6 Miami (FL),62,,+2,Dallas TX
+188,2018,March 15 2018,Midwest,First Round,7 Rhode Island,83,10 Oklahoma,78,OT,+5,Pittsburgh PA
+189,2018,March 15 2018,West,First Round,5 Ohio State,81,12 South Dakota State,73,,+8,Boise ID
+190,2018,March 15 2018,Midwest,First Round,2 Duke,89,15 Iona,67,,+22,Pittsburgh PA
+191,2018,March 15 2018,West,First Round,3 Michigan,61,14 Montana,47,,+14,Wichita KS
+192,2018,March 15 2018,East,First Round,6 Florida,77,11 St. Bonaventure,62,,+15,Dallas TX
+193,2018,March 15 2018,South,First Round,3 Tennessee,73,14 Wright State,47,,+26,Dallas TX
+194,2018,March 15 2018,Midwest,First Round,1 Kansas,76,16 Penn,60,,+16,Wichita KS
+195,2018,March 15 2018,South,First Round,5 Kentucky,78,12 Davidson,73,,+5,Boise ID
+196,2018,March 15 2018,West,First Round,4 Gonzaga,68,13 UNC Greensboro,64,,+4,Boise ID
+197,2018,March 14 2018,West,First Four,16 Texas Southern,64,16 North Carolina Central,46,,+18,Dayton OH
+198,2018,March 14 2018,Midwest,First Four,11 Syracuse,60,11 Arizona State,56,,+4,Dayton OH
+199,2018,March 13 2018,East,First Four,11 St. Bonaventure,65,11 UCLA,58,,+7,Dayton OH
+200,2018,March 13 2018,East,First Four,16 Radford,71,16 LIU,61,,+10,Dayton OH
+201,2017,April 3 2017,National,National Final,1 UNC,71,1 Gonzaga,65,,+6,Glendale AZ
+202,2017,April 1 2017,National,National Semifinal,1 Gonzaga,77,7 South Carolina,73,,+4,Glendale AZ
+203,2017,April 1 2017,National,National Semifinal,1 UNC,77,3 Oregon,76,,+1,Glendale AZ
+204,2017,March 26 2017,South,Regional Final,1 UNC,75,2 Kentucky,73,,+2,Memphis TN
+205,2017,March 26 2017,East,Regional Final,7 South Carolina,77,4 Florida,70,,+7,New York NY
+206,2017,March 25 2017,West,Regional Final,1 Gonzaga,83,11 Xavier,59,,+24,San Jose CA
+207,2017,March 25 2017,Midwest,Regional Final,3 Oregon,74,1 Kansas,60,,+14,Kansas City MO
+208,2017,March 24 2017,East,Regional Semifinal,4 Florida,84,8 Wisconsin,83,OT,+1,New York NY
+209,2017,March 24 2017,South,Regional Semifinal,2 Kentucky,86,3 UCLA,75,,+11,Memphis TN
+210,2017,March 24 2017,South,Regional Semifinal,1 UNC,92,4 Butler,80,,+12,Memphis TN
+211,2017,March 24 2017,East,Regional Semifinal,7 South Carolina,70,3 Baylor,50,,+20,New York NY
+212,2017,March 23 2017,West,Regional Semifinal,1 Gonzaga,61,4 West Virginia,58,,+3,San Jose CA
+213,2017,March 23 2017,Midwest,Regional Semifinal,1 Kansas,98,4 Purdue,66,,+32,Kansas City MO
+214,2017,March 23 2017,Midwest,Regional Semifinal,3 Oregon,69,7 Michigan,68,,+1,Kansas City MO
+215,2017,March 23 2017,West,Regional Semifinal,11 Xavier,73,2 Arizona,71,,+2,San Jose CA
+216,2017,March 19 2017,East,Second Round,3 Baylor,82,11 USC,78,,+4,Tulsa OK
+217,2017,March 19 2017,Midwest,Second Round,1 Kansas,90,9 Michigan State,70,,+20,Tulsa OK
+218,2017,March 19 2017,South,Second Round,2 Kentucky,65,10 Wichita State,62,,+3,Indianapolis IN
+219,2017,March 19 2017,Midwest,Second Round,7 Michigan,73,2 Louisville,69,,+4,Indianapolis IN
+220,2017,March 19 2017,South,Second Round,1 UNC,72,8 Arkansas,65,,+7,Greenville SC
+221,2017,March 19 2017,Midwest,Second Round,3 Oregon,75,11 Rhode Island,72,,+3,Sacramento CA
+222,2017,March 19 2017,East,Second Round,7 South Carolina,88,2 Duke,81,,+7,Greenville SC
+223,2017,March 19 2017,South,Second Round,3 UCLA,79,6 Cincinnati,67,,+12,Sacramento CA
+224,2017,March 18 2017,West,Second Round,2 Arizona,69,7 Saint Mary's,60,,+9,Salt Lake City UT
+225,2017,March 18 2017,South,Second Round,4 Butler,74,12 Middle Tennessee,65,,+9,Milwaukee WI
+226,2017,March 18 2017,East,Second Round,4 Florida,65,5 Virginia,39,,+26,Orlando FL
+227,2017,March 18 2017,West,Second Round,1 Gonzaga,79,8 Northwestern,73,,+6,Salt Lake City UT
+228,2017,March 18 2017,Midwest,Second Round,4 Purdue,80,5 Iowa State,76,,+4,Milwaukee WI
+229,2017,March 18 2017,West,Second Round,4 West Virginia,83,5 Notre Dame,71,,+12,Buffalo NY
+230,2017,March 18 2017,East,Second Round,8 Wisconsin,65,1 Villanova,62,,+3,Buffalo NY
+231,2017,March 18 2017,West,Second Round,11 Xavier,91,3 Florida State,66,,+25,Orlando FL
+232,2017,March 17 2017,South,First Round,8 Arkansas,77,9 Seton Hall,71,,+6,Greenville SC
+233,2017,March 17 2017,East,First Round,3 Baylor,91,14 New Mexico State,73,,+18,Tulsa OK
+234,2017,March 17 2017,South,First Round,6 Cincinnati,75,11 Kansas State,61,,+14,Sacramento CA
+235,2017,March 17 2017,East,First Round,2 Duke,87,15 Troy,65,,+22,Greenville SC
+236,2017,March 17 2017,Midwest,First Round,1 Kansas,100,16 UC-Davis,62,,+38,Tulsa OK
+237,2017,March 17 2017,South,First Round,2 Kentucky,79,15 Northern Kentucky,70,,+9,Indianapolis IN
+238,2017,March 17 2017,Midwest,First Round,2 Louisville,78,15 Jacksonville State,63,,+15,Indianapolis IN
+239,2017,March 17 2017,Midwest,First Round,7 Michigan,92,10 Oklahoma State,91,,+1,Indianapolis IN
+240,2017,March 17 2017,Midwest,First Round,9 Michigan State,78,8 Miami (FL),58,,+20,Tulsa OK
+241,2017,March 17 2017,South,First Round,1 UNC,103,16 Texas Southern,64,,+39,Greenville SC
+242,2017,March 17 2017,Midwest,First Round,3 Oregon,93,14 Iona,77,,+16,Sacramento CA
+243,2017,March 17 2017,Midwest,First Round,11 Rhode Island,84,6 Creighton,72,,+12,Sacramento CA
+244,2017,March 17 2017,East,First Round,7 South Carolina,93,10 Marquette,73,,+20,Greenville SC
+245,2017,March 17 2017,East,First Round,11 USC,66,6 SMU,65,,+1,Tulsa OK
+246,2017,March 17 2017,South,First Round,3 UCLA,97,14 Kent State,80,,+17,Sacramento CA
+247,2017,March 17 2017,South,First Round,10 Wichita State,64,7 Dayton,58,,+6,Indianapolis IN
+248,2017,March 16 2017,West,First Round,2 Arizona,100,15 North Dakota,82,,+18,Salt Lake City UT
+249,2017,March 16 2017,South,First Round,4 Butler,76,13 Winthrop,64,,+12,Milwaukee WI
+250,2017,March 16 2017,East,First Round,4 Florida,80,13 ETSU,65,,+15,Orlando FL
+251,2017,March 16 2017,West,First Round,3 Florida State,86,14 Florida Gulf Coast,80,,+6,Orlando FL
+252,2017,March 16 2017,West,First Round,1 Gonzaga,66,16 South Dakota State,46,,+20,Salt Lake City UT
+253,2017,March 16 2017,Midwest,First Round,5 Iowa State,84,12 Nevada,73,,+11,Milwaukee WI
+254,2017,March 16 2017,South,First Round,12 Middle Tennessee,81,5 Minnesota,72,,+9,Milwaukee WI
+255,2017,March 16 2017,West,First Round,8 Northwestern,68,9 Vanderbilt,66,,+2,Salt Lake City UT
+256,2017,March 16 2017,West,First Round,5 Notre Dame,60,12 Princeton,58,,+2,Buffalo NY
+257,2017,March 16 2017,Midwest,First Round,4 Purdue,80,13 Vermont,70,,+10,Milwaukee WI
+258,2017,March 16 2017,West,First Round,7 Saint Mary's,85,10 VCU,77,,+8,Salt Lake City UT
+259,2017,March 16 2017,East,First Round,1 Villanova,76,16 Mount St. Mary's,56,,+20,Buffalo NY
+260,2017,March 16 2017,East,First Round,5 Virginia,76,12 UNC Wilmington,71,,+5,Orlando FL
+261,2017,March 16 2017,West,First Round,4 West Virginia,86,13 Bucknell,80,,+6,Buffalo NY
+262,2017,March 16 2017,East,First Round,8 Wisconsin,84,9 Virginia Tech,74,,+10,Buffalo NY
+263,2017,March 16 2017,West,First Round,11 Xavier,76,6 Maryland,65,,+11,Orlando FL
+264,2017,March 15 2017,Midwest,First Four,16 UC-Davis,67,16 North Carolina Central,63,,+4,Dayton OH
+265,2017,March 15 2017,East,First Four,11 USC,75,11 Providence,71,,+4,Dayton OH
+266,2017,March 14 2017,South,First Four,11 Kansas State,95,11 Wake Forest,88,,+7,Dayton OH
+267,2017,March 14 2017,East,First Four,16 Mount St. Mary's,67,16 New Orleans,66,,+1,Dayton OH
+268,2016,April 4 2016,National,National Final,2 Villanova,77,1 UNC,74,,+3,Houston TX
+269,2016,April 2 2016,National,National Semifinal,1 UNC,83,10 Syracuse,66,,+17,Houston TX
+270,2016,April 2 2016,National,National Semifinal,2 Villanova,95,2 Oklahoma,51,,+44,Houston TX
+271,2016,March 27 2016,East,Regional Final,1 UNC,88,6 Notre Dame,74,,+14,Philadelphia PA
+272,2016,March 27 2016,Midwest,Regional Final,10 Syracuse,68,1 Virginia,62,,+6,Chicago IL
+273,2016,March 26 2016,West,Regional Final,2 Oklahoma,80,1 Oregon,68,,+12,Anaheim CA
+274,2016,March 26 2016,South,Regional Final,2 Villanova,64,1 Kansas,59,,+5,Louisville KY
+275,2016,March 25 2016,East,Regional Semifinal,1 UNC,101,5 Indiana,86,,+15,Philadelphia PA
+276,2016,March 25 2016,East,Regional Semifinal,6 Notre Dame,61,7 Wisconsin,56,,+5,Philadelphia PA
+277,2016,March 25 2016,Midwest,Regional Semifinal,10 Syracuse,63,11 Gonzaga,60,,+3,Chicago IL
+278,2016,March 25 2016,Midwest,Regional Semifinal,1 Virginia,84,4 Iowa State,71,,+13,Chicago IL
+279,2016,March 24 2016,South,Regional Semifinal,1 Kansas,79,5 Maryland,63,,+16,Louisville KY
+280,2016,March 24 2016,West,Regional Semifinal,2 Oklahoma,77,3 Texas A&M,63,,+14,Anaheim CA
+281,2016,March 24 2016,West,Regional Semifinal,1 Oregon,82,4 Duke,68,,+14,Anaheim CA
+282,2016,March 24 2016,South,Regional Semifinal,2 Villanova,92,3 Miami (FL),69,,+23,Louisville KY
+283,2016,March 20 2016,South,Second Round,5 Maryland,73,13 Hawaii,60,,+13,Spokane WA
+284,2016,March 20 2016,East,Second Round,6 Notre Dame,76,14 Stephen F. Austin,75,,+1,Brooklyn NY
+285,2016,March 20 2016,West,Second Round,2 Oklahoma,85,10 VCU,81,,+4,Oklahoma City OK
+286,2016,March 20 2016,West,Second Round,1 Oregon,69,8 St. Joseph's,64,,+5,Spokane WA
+287,2016,March 20 2016,Midwest,Second Round,10 Syracuse,75,15 Middle Tennessee,50,,+25,St. Louis MO
+288,2016,March 20 2016,West,Second Round,3 Texas A&M,92,11 Northern Iowa,88,2OT,+4,Oklahoma City OK
+289,2016,March 20 2016,South,Second Round,2 Villanova,87,7 Iowa,68,,+19,Brooklyn NY
+290,2016,March 20 2016,East,Second Round,7 Wisconsin,66,2 Xavier,63,,+3,St. Louis MO
+291,2016,March 19 2016,West,Second Round,4 Duke,71,12 Yale,64,,+7,Providence RI
+292,2016,March 19 2016,Midwest,Second Round,11 Gonzaga,82,3 Utah,59,,+23,Denver CO
+293,2016,March 19 2016,East,Second Round,5 Indiana,73,4 Kentucky,67,,+6,Des Moines IA
+294,2016,March 19 2016,Midwest,Second Round,4 Iowa State,78,12 Little Rock,61,,+17,Denver CO
+295,2016,March 19 2016,South,Second Round,1 Kansas,73,9 UConn,61,,+12,Des Moines IA
+296,2016,March 19 2016,South,Second Round,3 Miami (FL),65,11 Wichita State,57,,+8,Providence RI
+297,2016,March 19 2016,East,Second Round,1 UNC,85,9 Providence,66,,+19,Raleigh NC
+298,2016,March 19 2016,Midwest,Second Round,1 Virginia,77,9 Butler,69,,+8,Raleigh NC
+299,2016,March 18 2016,South,First Round,13 Hawaii,77,4 California,66,,+11,Spokane WA
+300,2016,March 18 2016,South,First Round,7 Iowa,72,10 Temple,70,OT,+2,Brooklyn NY
+301,2016,March 18 2016,South,First Round,5 Maryland,79,12 South Dakota State,74,,+5,Spokane WA
+302,2016,March 18 2016,Midwest,First Round,15 Middle Tennessee,90,2 Michigan State,81,,+9,St. Louis MO
+303,2016,March 18 2016,West,First Round,11 Northern Iowa,75,6 Texas,72,,+3,Oklahoma City OK
+304,2016,March 18 2016,East,First Round,6 Notre Dame,70,11 Michigan,63,,+7,Brooklyn NY
+305,2016,March 18 2016,West,First Round,2 Oklahoma,82,15 Cal State Bakersfield,68,,+14,Oklahoma City OK
+306,2016,March 18 2016,West,First Round,1 Oregon,91,16 Holy Cross,52,,+39,Spokane WA
+307,2016,March 18 2016,West,First Round,8 St. Joseph's,78,9 Cincinnati,76,,+2,Spokane WA
+308,2016,March 18 2016,East,First Round,14 Stephen F. Austin,70,3 West Virginia,56,,+14,Brooklyn NY
+309,2016,March 18 2016,Midwest,First Round,10 Syracuse,70,7 Dayton,51,,+19,St. Louis MO
+310,2016,March 18 2016,West,First Round,3 Texas A&M,92,14 Green Bay,65,,+27,Oklahoma City OK
+311,2016,March 18 2016,South,First Round,2 Villanova,86,15 UNC Asheville,56,,+30,Brooklyn NY
+312,2016,March 18 2016,West,First Round,10 VCU,75,7 Oregon State,67,,+8,Oklahoma City OK
+313,2016,March 18 2016,East,First Round,7 Wisconsin,47,10 Pitt,43,,+4,St. Louis MO
+314,2016,March 18 2016,East,First Round,2 Xavier,71,15 Weber State,53,,+18,St. Louis MO
+315,2016,March 17 2016,Midwest,First Round,12 Little Rock,85,5 Purdue,83,2OT,+2,Denver CO
+316,2016,March 17 2016,Midwest,First Round,9 Butler,71,8 Texas Tech,61,,+10,Raleigh NC
+317,2016,March 17 2016,South,First Round,9 UConn,74,8 Colorado,67,,+7,Des Moines IA
+318,2016,March 17 2016,West,First Round,4 Duke,93,13 UNC Wilmington,85,,+8,Providence RI
+319,2016,March 17 2016,Midwest,First Round,11 Gonzaga,68,6 Seton Hall,52,,+16,Denver CO
+320,2016,March 17 2016,East,First Round,5 Indiana,99,12 Chattanooga,74,,+25,Des Moines IA
+321,2016,March 17 2016,Midwest,First Round,4 Iowa State,94,13 Iona,81,,+13,Denver CO
+322,2016,March 17 2016,South,First Round,1 Kansas,105,16 Austin Peay,79,,+26,Des Moines IA
+323,2016,March 17 2016,East,First Round,4 Kentucky,85,13 Stony Brook,57,,+28,Des Moines IA
+324,2016,March 17 2016,South,First Round,3 Miami (FL),79,14 Buffalo,72,,+7,Providence RI
+325,2016,March 17 2016,East,First Round,1 UNC,83,16 Florida Gulf Coast,67,,+16,Raleigh NC
+326,2016,March 17 2016,East,First Round,9 Providence,70,8 USC,69,,+1,Raleigh NC
+327,2016,March 17 2016,Midwest,First Round,3 Utah,80,14 Fresno State,69,,+11,Denver CO
+328,2016,March 17 2016,Midwest,First Round,1 Virginia,81,16 Hampton,45,,+36,Raleigh NC
+329,2016,March 17 2016,South,First Round,11 Wichita State,65,6 Arizona,55,,+10,Providence RI
+330,2016,March 17 2016,West,First Round,12 Yale,79,5 Baylor,75,,+4,Providence RI
+331,2016,March 16 2016,West,First Four,16 Holy Cross,59,16 Southern,55,,+4,Dayton OH
+332,2016,March 16 2016,East,First Four,11 Michigan,67,11 Tulsa,62,,+5,Dayton OH
+333,2016,March 15 2016,East,First Four,16 Florida Gulf Coast,96,16 Fairleigh Dickinson,65,,+31,Dayton OH
+334,2016,March 15 2016,South,First Four,11 Wichita State,70,11 Vanderbilt,50,,+20,Dayton OH
+335,2015,April 6 2015,National,National Final,1 Duke,68,1 Wisconsin,63,,+5,Indianapolis IN
+336,2015,April 4 2015,National,National Semifinal,1 Duke,81,7 Michigan State,61,,+20,Indianapolis IN
+337,2015,April 4 2015,National,National Semifinal,1 Wisconsin,71,1 Kentucky,64,,+7,Indianapolis IN
+338,2015,March 29 2015,South,Regional Final,1 Duke,66,2 Gonzaga,52,,+14,Houston TX
+339,2015,March 29 2015,East,Regional Final,7 Michigan State,76,4 Louisville,70,OT,+6,Syracuse NY
+340,2015,March 28 2015,Midwest,Regional Final,1 Kentucky,68,3 Notre Dame,66,,+2,Cleveland OH
+341,2015,March 28 2015,West,Regional Final,1 Wisconsin,85,2 Arizona,78,,+7,Los Angeles CA
+342,2015,March 27 2015,South,Regional Semifinal,1 Duke,63,5 Utah,57,,+6,Houston TX
+343,2015,March 27 2015,South,Regional Semifinal,2 Gonzaga,74,11 UCLA,62,,+12,Houston TX
+344,2015,March 27 2015,East,Regional Semifinal,4 Louisville,75,8 NC State,65,,+10,Syracuse NY
+345,2015,March 27 2015,East,Regional Semifinal,7 Michigan State,62,3 Oklahoma,58,,+4,Syracuse NY
+346,2015,March 26 2015,West,Regional Semifinal,2 Arizona,68,6 Xavier,60,,+8,Los Angeles CA
+347,2015,March 26 2015,Midwest,Regional Semifinal,1 Kentucky,78,5 West Virginia,39,,+39,Cleveland OH
+348,2015,March 26 2015,Midwest,Regional Semifinal,3 Notre Dame,81,7 Wichita State,70,,+11,Cleveland OH
+349,2015,March 26 2015,West,Regional Semifinal,1 Wisconsin,79,4 UNC,72,,+7,Los Angeles CA
+350,2015,March 22 2015,South,Third Round,1 Duke,68,8 San Diego State,49,,+19,Charlotte NC
+351,2015,March 22 2015,South,Third Round,2 Gonzaga,87,7 Iowa,68,,+19,Seattle WA
+352,2015,March 22 2015,East,Third Round,4 Louisville,66,5 Northern Iowa,53,,+13,Seattle WA
+353,2015,March 22 2015,East,Third Round,7 Michigan State,60,2 Virginia,54,,+6,Charlotte NC
+354,2015,March 22 2015,East,Third Round,3 Oklahoma,72,11 Dayton,66,,+6,Columbus OH
+355,2015,March 22 2015,Midwest,Third Round,5 West Virginia,69,4 Maryland,59,,+10,Columbus OH
+356,2015,March 22 2015,Midwest,Third Round,7 Wichita State,78,2 Kansas,65,,+13,Omaha NE
+357,2015,March 22 2015,West,Third Round,1 Wisconsin,72,8 Oregon,65,,+7,Omaha NE
+358,2015,March 21 2015,West,Third Round,2 Arizona,73,10 Ohio State,58,,+15,Portland OR
+359,2015,March 21 2015,Midwest,Third Round,1 Kentucky,64,8 Cincinnati,51,,+13,Louisville KY
+360,2015,March 21 2015,West,Third Round,4 UNC,87,5 Arkansas,78,,+9,Jacksonville FL
+361,2015,March 21 2015,East,Third Round,8 NC State,71,1 Villanova,68,,+3,Pittsburgh PA
+362,2015,March 21 2015,Midwest,Third Round,3 Notre Dame,67,6 Butler,64,OT,+3,Pittsburgh PA
+363,2015,March 21 2015,South,Third Round,11 UCLA,92,14 Alabama-Birmingham,75,,+17,Louisville KY
+364,2015,March 21 2015,South,Third Round,5 Utah,75,4 Georgetown,64,,+11,Portland OR
+365,2015,March 21 2015,West,Third Round,6 Xavier,75,14 Georgia State,67,,+8,Jacksonville FL
+366,2015,March 20 2015,East,Second Round,11 Dayton,66,6 Providence,53,,+13,Columbus OH
+367,2015,March 20 2015,South,Second Round,1 Duke,85,16 Robert Morris,56,,+29,Charlotte NC
+368,2015,March 20 2015,South,Second Round,2 Gonzaga,86,15 North Dakota State,76,,+10,Seattle WA
+369,2015,March 20 2015,South,Second Round,7 Iowa,83,10 Davidson,52,,+31,Seattle WA
+370,2015,March 20 2015,Midwest,Second Round,2 Kansas,75,15 New Mexico State,56,,+19,Omaha NE
+371,2015,March 20 2015,East,Second Round,4 Louisville,57,13 UC-Irvine,55,,+2,Seattle WA
+372,2015,March 20 2015,Midwest,Second Round,4 Maryland,65,13 Valparaiso,62,,+3,Columbus OH
+373,2015,March 20 2015,East,Second Round,7 Michigan State,70,10 Georgia,63,,+7,Charlotte NC
+374,2015,March 20 2015,East,Second Round,5 Northern Iowa,71,12 Wyoming,54,,+17,Seattle WA
+375,2015,March 20 2015,East,Second Round,3 Oklahoma,69,14 Albany (NY),60,,+9,Columbus OH
+376,2015,March 20 2015,West,Second Round,8 Oregon,79,9 Oklahoma State,73,,+6,Omaha NE
+377,2015,March 20 2015,South,Second Round,8 San Diego State,76,9 St. John's (NY),64,,+12,Charlotte NC
+378,2015,March 20 2015,East,Second Round,2 Virginia,79,15 Belmont,67,,+12,Charlotte NC
+379,2015,March 20 2015,Midwest,Second Round,5 West Virginia,68,12 Buffalo,62,,+6,Columbus OH
+380,2015,March 20 2015,Midwest,Second Round,7 Wichita State,81,10 Indiana,76,,+5,Omaha NE
+381,2015,March 20 2015,West,Second Round,1 Wisconsin,86,16 Coastal Carolina,72,,+14,Omaha NE
+382,2015,March 19 2015,South,Second Round,14 Alabama-Birmingham,60,3 Iowa State,59,,+1,Louisville KY
+383,2015,March 19 2015,West,Second Round,2 Arizona,93,15 Texas Southern,72,,+21,Portland OR
+384,2015,March 19 2015,West,Second Round,5 Arkansas,56,12 Wofford,53,,+3,Jacksonville FL
+385,2015,March 19 2015,Midwest,Second Round,6 Butler,56,11 Texas,48,,+8,Pittsburgh PA
+386,2015,March 19 2015,Midwest,Second Round,8 Cincinnati,66,9 Purdue,65,OT,+1,Louisville KY
+387,2015,March 19 2015,South,Second Round,4 Georgetown,84,13 Eastern Washington,74,,+10,Portland OR
+388,2015,March 19 2015,West,Second Round,14 Georgia State,57,3 Baylor,56,,+1,Jacksonville FL
+389,2015,March 19 2015,Midwest,Second Round,1 Kentucky,79,16 Hampton,56,,+23,Louisville KY
+390,2015,March 19 2015,West,Second Round,4 UNC,67,13 Harvard,65,,+2,Jacksonville FL
+391,2015,March 19 2015,East,Second Round,8 NC State,66,9 LSU,65,,+1,Pittsburgh PA
+392,2015,March 19 2015,Midwest,Second Round,3 Notre Dame,69,14 Northeastern,65,,+4,Pittsburgh PA
+393,2015,March 19 2015,West,Second Round,10 Ohio State,75,7 VCU,72,OT,+3,Portland OR
+394,2015,March 19 2015,South,Second Round,11 UCLA,60,6 SMU,59,,+1,Louisville KY
+395,2015,March 19 2015,South,Second Round,5 Utah,57,12 Stephen F. Austin,50,,+7,Portland OR
+396,2015,March 19 2015,East,Second Round,1 Villanova,93,16 Lafayette,52,,+41,Pittsburgh PA
+397,2015,March 19 2015,West,Second Round,6 Xavier,76,11 Ole Miss,57,,+19,Jacksonville FL
+398,2015,March 18 2015,East,First Round,11 Dayton,56,11 Boise State,55,,+1,Dayton OH
+399,2015,March 18 2015,South,First Round,16 Robert Morris,81,16 North Florida,77,,+4,Dayton OH
+400,2015,March 17 2015,Midwest,First Round,16 Hampton,74,16 Manhattan,64,,+10,Dayton OH
+401,2015,March 17 2015,West,First Round,11 Ole Miss,94,11 BYU,90,,+4,Dayton OH
+402,2014,April 7 2014,National,National Final,7 UConn,60,8 Kentucky,54,,+6,Arlington TX
+403,2014,April 5 2014,National,National Semifinal,7 UConn,63,1 Florida,53,,+10,Arlington TX
+404,2014,April 5 2014,National,National Semifinal,8 Kentucky,74,2 Wisconsin,73,,+1,Arlington TX
+405,2014,March 30 2014,East,Regional Final,7 UConn,60,4 Michigan State,54,,+6,New York NY
+406,2014,March 30 2014,Midwest,Regional Final,8 Kentucky,75,2 Michigan,72,,+3,Indianapolis IN
+407,2014,March 29 2014,South,Regional Final,1 Florida,62,11 Dayton,52,,+10,Memphis TN
+408,2014,March 29 2014,West,Regional Final,2 Wisconsin,64,1 Arizona,63,OT,+1,Anaheim CA
+409,2014,March 28 2014,East,Regional Semifinal,7 UConn,81,3 Iowa State,76,,+5,New York NY
+410,2014,March 28 2014,Midwest,Regional Semifinal,8 Kentucky,74,4 Louisville,69,,+5,Indianapolis IN
+411,2014,March 28 2014,Midwest,Regional Semifinal,2 Michigan,73,11 Tennessee,71,,+2,Indianapolis IN
+412,2014,March 28 2014,East,Regional Semifinal,4 Michigan State,61,1 Virginia,59,,+2,New York NY
+413,2014,March 27 2014,West,Regional Semifinal,1 Arizona,70,4 San Diego State,64,,+6,Anaheim CA
+414,2014,March 27 2014,South,Regional Semifinal,11 Dayton,82,10 Stanford,72,,+10,Memphis TN
+415,2014,March 27 2014,South,Regional Semifinal,1 Florida,79,4 UCLA,68,,+11,Memphis TN
+416,2014,March 27 2014,West,Regional Semifinal,2 Wisconsin,69,6 Baylor,52,,+17,Anaheim CA
+417,2014,March 23 2014,West,Third Round,1 Arizona,84,8 Gonzaga,61,,+23,San Diego CA
+418,2014,March 23 2014,West,Third Round,6 Baylor,85,3 Creighton,55,,+30,San Antonio TX
+419,2014,March 23 2014,East,Third Round,3 Iowa State,85,6 UNC,83,,+2,San Antonio TX
+420,2014,March 23 2014,Midwest,Third Round,8 Kentucky,78,1 Wichita State,76,,+2,St. Louis MO
+421,2014,March 23 2014,South,Third Round,10 Stanford,60,2 Kansas,57,,+3,St. Louis MO
+422,2014,March 23 2014,Midwest,Third Round,11 Tennessee,83,14 Mercer,63,,+20,Raleigh NC
+423,2014,March 23 2014,South,Third Round,4 UCLA,77,12 Stephen F. Austin,60,,+17,San Diego CA
+424,2014,March 23 2014,East,Third Round,1 Virginia,78,8 Memphis,60,,+18,Raleigh NC
+425,2014,March 22 2014,East,Third Round,7 UConn,77,2 Villanova,65,,+12,Buffalo NY
+426,2014,March 22 2014,South,Third Round,11 Dayton,55,3 Syracuse,53,,+2,Buffalo NY
+427,2014,March 22 2014,South,Third Round,1 Florida,61,9 Pitt,45,,+16,Orlando FL
+428,2014,March 22 2014,Midwest,Third Round,4 Louisville,66,5 Saint Louis,51,,+15,Orlando FL
+429,2014,March 22 2014,Midwest,Third Round,2 Michigan,79,7 Texas,65,,+14,Milwaukee WI
+430,2014,March 22 2014,East,Third Round,4 Michigan State,80,12 Harvard,73,,+7,Spokane WA
+431,2014,March 22 2014,West,Third Round,4 San Diego State,63,12 North Dakota State,44,,+19,Spokane WA
+432,2014,March 22 2014,West,Third Round,2 Wisconsin,85,7 Oregon,77,,+8,Milwaukee WI
+433,2014,March 21 2014,West,Second Round,1 Arizona,68,16 Weber State,59,,+9,San Diego CA
+434,2014,March 21 2014,West,Second Round,6 Baylor,74,11 Nebraska,60,,+14,San Antonio TX
+435,2014,March 21 2014,West,Second Round,3 Creighton,76,14 Louisiana,66,,+10,San Antonio TX
+436,2014,March 21 2014,West,Second Round,8 Gonzaga,85,9 Oklahoma State,77,,+8,San Diego CA
+437,2014,March 21 2014,East,Second Round,3 Iowa State,93,14 North Carolina Central,75,,+18,San Antonio TX
+438,2014,March 21 2014,South,Second Round,2 Kansas,80,15 Eastern Kentucky,69,,+11,St. Louis MO
+439,2014,March 21 2014,Midwest,Second Round,8 Kentucky,56,9 Kansas State,49,,+7,St. Louis MO
+440,2014,March 21 2014,East,Second Round,8 Memphis,71,9 George Washington,66,,+5,Raleigh NC
+441,2014,March 21 2014,Midwest,Second Round,14 Mercer,78,3 Duke,71,,+7,Raleigh NC
+442,2014,March 21 2014,East,Second Round,6 UNC,79,11 Providence,77,,+2,San Antonio TX
+443,2014,March 21 2014,South,Second Round,10 Stanford,58,7 New Mexico,53,,+5,St. Louis MO
+444,2014,March 21 2014,South,Second Round,12 Stephen F. Austin,77,5 VCU,75,OT,+2,San Diego CA
+445,2014,March 21 2014,Midwest,Second Round,11 Tennessee,86,6 UMass,67,,+19,Raleigh NC
+446,2014,March 21 2014,South,Second Round,4 UCLA,76,13 Tulsa,59,,+17,San Diego CA
+447,2014,March 21 2014,East,Second Round,1 Virginia,70,16 Coastal Carolina,59,,+11,Raleigh NC
+448,2014,March 21 2014,Midwest,Second Round,1 Wichita State,64,16 Cal Poly,37,,+27,St. Louis MO
+449,2014,March 20 2014,East,Second Round,7 UConn,89,10 St. Joseph's,81,OT,+8,Buffalo NY
+450,2014,March 20 2014,South,Second Round,11 Dayton,60,6 Ohio State,59,,+1,Buffalo NY
+451,2014,March 20 2014,South,Second Round,1 Florida,67,16 Albany (NY),55,,+12,Orlando FL
+452,2014,March 20 2014,East,Second Round,12 Harvard,61,5 Cincinnati,57,,+4,Spokane WA
+453,2014,March 20 2014,Midwest,Second Round,4 Louisville,71,13 Manhattan,64,,+7,Orlando FL
+454,2014,March 20 2014,Midwest,Second Round,2 Michigan,57,15 Wofford,40,,+17,Milwaukee WI
+455,2014,March 20 2014,East,Second Round,4 Michigan State,93,13 Delaware,78,,+15,Spokane WA
+456,2014,March 20 2014,West,Second Round,12 North Dakota State,80,5 Oklahoma,75,OT,+5,Spokane WA
+457,2014,March 20 2014,West,Second Round,7 Oregon,87,10 BYU,68,,+19,Milwaukee WI
+458,2014,March 20 2014,South,Second Round,9 Pitt,77,8 Colorado,48,,+29,Orlando FL
+459,2014,March 20 2014,Midwest,Second Round,5 Saint Louis,83,12 NC State,80,OT,+3,Orlando FL
+460,2014,March 20 2014,West,Second Round,4 San Diego State,73,13 New Mexico State,69,OT,+4,Spokane WA
+461,2014,March 20 2014,South,Second Round,3 Syracuse,77,14 Western Michigan,53,,+24,Buffalo NY
+462,2014,March 20 2014,Midwest,Second Round,7 Texas,87,10 Arizona State,85,,+2,Milwaukee WI
+463,2014,March 20 2014,East,Second Round,2 Villanova,73,15 Milwaukee,53,,+20,Buffalo NY
+464,2014,March 20 2014,West,Second Round,2 Wisconsin,75,15 American,35,,+40,Milwaukee WI
+465,2014,March 19 2014,Midwest,First Round,16 Cal Poly,81,16 Texas Southern,69,,+12,Dayton OH
+466,2014,March 19 2014,Midwest,First Round,11 Tennessee,78,11 Iowa,65,OT,+13,Dayton OH
+467,2014,March 18 2014,South,First Round,16 Albany (NY),71,16 Mount St. Mary's,64,,+7,Dayton OH
+468,2014,March 18 2014,Midwest,First Round,12 NC State,74,12 Xavier,59,,+15,Dayton OH
+469,2013,April 8 2013,National,National Final,1 Louisville,82,4 Michigan,76,,+6,Atlanta GA
+470,2013,April 6 2013,National,National Semifinal,1 Louisville,72,9 Wichita State,68,,+4,Atlanta GA
+471,2013,April 6 2013,National,National Semifinal,4 Michigan,61,4 Syracuse,56,,+5,Atlanta GA
+472,2013,March 31 2013,Midwest,Regional Final,1 Louisville,85,2 Duke,63,,+22,Indianapolis IN
+473,2013,March 31 2013,South,Regional Final,4 Michigan,79,3 Florida,59,,+20,Arlington TX
+474,2013,March 30 2013,East,Regional Final,4 Syracuse,55,3 Marquette,39,,+16,Washington DC
+475,2013,March 30 2013,West,Regional Final,9 Wichita State,70,2 Ohio State,66,,+4,Los Angeles CA
+476,2013,March 29 2013,Midwest,Regional Semifinal,2 Duke,71,3 Michigan State,61,,+10,Indianapolis IN
+477,2013,March 29 2013,South,Regional Semifinal,3 Florida,62,15 Florida Gulf Coast,50,,+12,Arlington TX
+478,2013,March 29 2013,Midwest,Regional Semifinal,1 Louisville,77,12 Oregon,69,,+8,Indianapolis IN
+479,2013,March 29 2013,South,Regional Semifinal,4 Michigan,87,1 Kansas,85,OT,+2,Arlington TX
+480,2013,March 28 2013,East,Regional Semifinal,3 Marquette,71,2 Miami (FL),61,,+10,Washington DC
+481,2013,March 28 2013,West,Regional Semifinal,2 Ohio State,73,6 Arizona,70,,+3,Los Angeles CA
+482,2013,March 28 2013,East,Regional Semifinal,4 Syracuse,61,1 Indiana,50,,+11,Washington DC
+483,2013,March 28 2013,West,Regional Semifinal,9 Wichita State,72,13 La Salle,58,,+14,Los Angeles CA
+484,2013,March 24 2013,Midwest,Third Round,2 Duke,66,7 Creighton,50,,+16,Philadelphia PA
+485,2013,March 24 2013,South,Third Round,3 Florida,78,11 Minnesota,64,,+14,Austin TX
+486,2013,March 24 2013,South,Third Round,15 Florida Gulf Coast,81,7 San Diego State,71,,+10,Philadelphia PA
+487,2013,March 24 2013,East,Third Round,1 Indiana,58,9 Temple,52,,+6,Dayton OH
+488,2013,March 24 2013,South,Third Round,1 Kansas,70,8 UNC,58,,+12,Kansas City MO
+489,2013,March 24 2013,West,Third Round,13 La Salle,76,12 Ole Miss,74,,+2,Kansas City MO
+490,2013,March 24 2013,East,Third Round,2 Miami (FL),63,7 Illinois,59,,+4,Austin TX
+491,2013,March 24 2013,West,Third Round,2 Ohio State,78,10 Iowa State,75,,+3,Dayton OH
+492,2013,March 23 2013,West,Third Round,6 Arizona,74,14 Harvard,51,,+23,Salt Lake City UT
+493,2013,March 23 2013,Midwest,Third Round,1 Louisville,82,8 Colorado State,56,,+26,Lexington KY
+494,2013,March 23 2013,East,Third Round,3 Marquette,74,6 Butler,72,,+2,Lexington KY
+495,2013,March 23 2013,South,Third Round,4 Michigan,78,5 VCU,53,,+25,Auburn Hills MI
+496,2013,March 23 2013,Midwest,Third Round,3 Michigan State,70,6 Memphis,48,,+22,Auburn Hills MI
+497,2013,March 23 2013,Midwest,Third Round,12 Oregon,74,4 Saint Louis,57,,+17,San Jose CA
+498,2013,March 23 2013,East,Third Round,4 Syracuse,66,12 California,60,,+6,San Jose CA
+499,2013,March 23 2013,West,Third Round,9 Wichita State,76,1 Gonzaga,70,,+6,Salt Lake City UT
+500,2013,March 22 2013,Midwest,Second Round,7 Creighton,67,10 Cincinnati,63,,+4,Philadelphia PA
+501,2013,March 22 2013,Midwest,Second Round,2 Duke,73,15 Albany (NY),61,,+12,Philadelphia PA
+502,2013,March 22 2013,South,Second Round,3 Florida,79,14 Northwestern State,47,,+32,Austin TX
+503,2013,March 22 2013,South,Second Round,15 Florida Gulf Coast,78,2 Georgetown,68,,+10,Philadelphia PA
+504,2013,March 22 2013,East,Second Round,7 Illinois,57,10 Colorado,49,,+8,Austin TX
+505,2013,March 22 2013,East,Second Round,1 Indiana,83,16 James Madison,62,,+21,Dayton OH
+506,2013,March 22 2013,West,Second Round,10 Iowa State,76,7 Notre Dame,58,,+18,Dayton OH
+507,2013,March 22 2013,South,Second Round,1 Kansas,64,16 Western Kentucky,57,,+7,Kansas City MO
+508,2013,March 22 2013,West,Second Round,13 La Salle,63,4 Kansas State,61,,+2,Kansas City MO
+509,2013,March 22 2013,East,Second Round,2 Miami (FL),78,15 Pacific,49,,+29,Austin TX
+510,2013,March 22 2013,South,Second Round,11 Minnesota,83,6 UCLA,63,,+20,Austin TX
+511,2013,March 22 2013,West,Second Round,12 Ole Miss,57,5 Wisconsin,46,,+11,Kansas City MO
+512,2013,March 22 2013,South,Second Round,8 UNC,78,9 Villanova,71,,+7,Kansas City MO
+513,2013,March 22 2013,West,Second Round,2 Ohio State,95,15 Iona,70,,+25,Dayton OH
+514,2013,March 22 2013,South,Second Round,7 San Diego State,70,10 Oklahoma,55,,+15,Philadelphia PA
+515,2013,March 22 2013,East,Second Round,9 Temple,76,8 NC State,72,,+4,Dayton OH
+516,2013,March 21 2013,West,Second Round,6 Arizona,81,11 Belmont,64,,+17,Salt Lake City UT
+517,2013,March 21 2013,East,Second Round,6 Butler,68,11 Bucknell,56,,+12,Lexington KY
+518,2013,March 21 2013,East,Second Round,12 California,64,5 UNLV,61,,+3,San Jose CA
+519,2013,March 21 2013,Midwest,Second Round,8 Colorado State,84,9 Missouri,72,,+12,Lexington KY
+520,2013,March 21 2013,West,Second Round,1 Gonzaga,64,16 Southern,58,,+6,Salt Lake City UT
+521,2013,March 21 2013,West,Second Round,14 Harvard,68,3 New Mexico,62,,+6,Salt Lake City UT
+522,2013,March 21 2013,Midwest,Second Round,1 Louisville,79,16 North Carolina A&T,48,,+31,Lexington KY
+523,2013,March 21 2013,East,Second Round,3 Marquette,59,14 Davidson,58,,+1,Lexington KY
+524,2013,March 21 2013,Midwest,Second Round,6 Memphis,54,11 Saint Mary's,52,,+2,Auburn Hills MI
+525,2013,March 21 2013,South,Second Round,4 Michigan,71,13 South Dakota State,56,,+15,Auburn Hills MI
+526,2013,March 21 2013,Midwest,Second Round,3 Michigan State,65,14 Valparaiso,54,,+11,Auburn Hills MI
+527,2013,March 21 2013,Midwest,Second Round,12 Oregon,68,5 Oklahoma State,55,,+13,San Jose CA
+528,2013,March 21 2013,Midwest,Second Round,4 Saint Louis,64,13 New Mexico State,44,,+20,San Jose CA
+529,2013,March 21 2013,East,Second Round,4 Syracuse,81,13 Montana,34,,+47,San Jose CA
+530,2013,March 21 2013,South,Second Round,5 VCU,88,12 Akron,42,,+46,Auburn Hills MI
+531,2013,March 21 2013,West,Second Round,9 Wichita State,73,8 Pitt,55,,+18,Salt Lake City UT
+532,2013,March 20 2013,East,First Round,16 James Madison,68,16 LIU,55,,+13,Dayton OH
+533,2013,March 20 2013,West,First Round,13 La Salle,80,13 Boise State,71,,+9,Dayton OH
+534,2013,March 19 2013,Midwest,First Round,16 North Carolina A&T,73,16 Liberty,72,,+1,Dayton OH
+535,2013,March 19 2013,Midwest,First Round,11 Saint Mary's,67,11 Middle Tennessee,54,,+13,Dayton OH
+536,2012,April 2 2012,National,National Final,1 Kentucky,67,2 Kansas,59,,+8,New Orleans LA
+537,2012,March 31 2012,National,National Semifinal,2 Kansas,64,2 Ohio State,62,,+2,New Orleans LA
+538,2012,March 31 2012,National,National Semifinal,1 Kentucky,69,4 Louisville,61,,+8,New Orleans LA
+539,2012,March 25 2012,Midwest,Regional Final,2 Kansas,80,1 UNC,67,,+13,St. Louis MO
+540,2012,March 25 2012,South,Regional Final,1 Kentucky,82,3 Baylor,70,,+12,Atlanta GA
+541,2012,March 24 2012,West,Regional Final,4 Louisville,72,7 Florida,68,,+4,Phoenix AZ
+542,2012,March 24 2012,East,Regional Final,2 Ohio State,77,1 Syracuse,70,,+7,Boston MA
+543,2012,March 23 2012,South,Regional Semifinal,3 Baylor,75,10 Xavier,70,,+5,Atlanta GA
+544,2012,March 23 2012,Midwest,Regional Semifinal,2 Kansas,60,11 NC State,57,,+3,St. Louis MO
+545,2012,March 23 2012,South,Regional Semifinal,1 Kentucky,102,4 Indiana,90,,+12,Atlanta GA
+546,2012,March 23 2012,Midwest,Regional Semifinal,1 UNC,73,13 Ohio,65,OT,+8,St. Louis MO
+547,2012,March 22 2012,West,Regional Semifinal,7 Florida,68,3 Marquette,58,,+10,Phoenix AZ
+548,2012,March 22 2012,West,Regional Semifinal,4 Louisville,57,1 Michigan State,44,,+13,Phoenix AZ
+549,2012,March 22 2012,East,Regional Semifinal,2 Ohio State,81,6 Cincinnati,66,,+15,Boston MA
+550,2012,March 22 2012,East,Regional Semifinal,1 Syracuse,64,4 Wisconsin,63,,+1,Boston MA
+551,2012,March 18 2012,East,Third Round,6 Cincinnati,62,3 Florida State,56,,+6,Nashville TN
+552,2012,March 18 2012,West,Third Round,7 Florida,84,15 Norfolk State,50,,+34,Omaha NE
+553,2012,March 18 2012,Midwest,Third Round,2 Kansas,63,10 Purdue,60,,+3,Omaha NE
+554,2012,March 18 2012,West,Third Round,1 Michigan State,65,9 Saint Louis,61,,+4,Columbus OH
+555,2012,March 18 2012,Midwest,Third Round,1 UNC,87,8 Creighton,73,,+14,Greensboro NC
+556,2012,March 18 2012,Midwest,Third Round,11 NC State,66,3 Georgetown,63,,+3,Columbus OH
+557,2012,March 18 2012,Midwest,Third Round,13 Ohio,62,12 South Florida,56,,+6,Nashville TN
+558,2012,March 18 2012,South,Third Round,10 Xavier,70,15 Lehigh,58,,+12,Greensboro NC
+559,2012,March 17 2012,South,Third Round,3 Baylor,80,11 Colorado,63,,+17,The Pit Al
+560,2012,March 17 2012,South,Third Round,4 Indiana,63,12 VCU,61,,+2,Portland OR
+561,2012,March 17 2012,South,Third Round,1 Kentucky,87,8 Iowa State,71,,+16,Louisville KY
+562,2012,March 17 2012,West,Third Round,4 Louisville,59,5 New Mexico,56,,+3,Portland OR
+563,2012,March 17 2012,West,Third Round,3 Marquette,62,6 Murray State,53,,+9,Louisville KY
+564,2012,March 17 2012,East,Third Round,2 Ohio State,73,7 Gonzaga,66,,+7,Pittsburgh PA
+565,2012,March 17 2012,East,Third Round,1 Syracuse,75,8 Kansas State,59,,+16,Pittsburgh PA
+566,2012,March 17 2012,East,Third Round,4 Wisconsin,60,5 Vanderbilt,57,,+3,Albuquerque NM
+567,2012,March 16 2012,East,Second Round,6 Cincinnati,65,11 Texas,59,,+6,Nashville TN
+568,2012,March 16 2012,Midwest,Second Round,8 Creighton,58,9 Alabama,57,,+1,Greensboro NC
+569,2012,March 16 2012,West,Second Round,7 Florida,71,10 Virginia,45,,+26,Omaha NE
+570,2012,March 16 2012,East,Second Round,3 Florida State,66,14 St. Bonaventure,63,,+3,Nashville TN
+571,2012,March 16 2012,Midwest,Second Round,3 Georgetown,74,14 Belmont,59,,+15,Columbus OH
+572,2012,March 16 2012,Midwest,Second Round,2 Kansas,65,15 Detroit,50,,+15,Omaha NE
+573,2012,March 16 2012,South,Second Round,15 Lehigh,75,2 Duke,70,,+5,Greensboro NC
+574,2012,March 16 2012,West,Second Round,1 Michigan State,89,16 LIU,67,,+22,Columbus OH
+575,2012,March 16 2012,West,Second Round,15 Norfolk State,86,2 Missouri,84,,+2,Omaha NE
+576,2012,March 16 2012,Midwest,Second Round,1 UNC,77,16 Vermont,58,,+19,Greensboro NC
+577,2012,March 16 2012,Midwest,Second Round,11 NC State,79,6 San Diego State,65,,+14,Columbus OH
+578,2012,March 16 2012,Midwest,Second Round,13 Ohio,65,4 Michigan,60,,+5,Nashville TN
+579,2012,March 16 2012,Midwest,Second Round,10 Purdue,72,7 Saint Mary's,69,,+3,Omaha NE
+580,2012,March 16 2012,West,Second Round,9 Saint Louis,61,8 Memphis,54,,+7,Columbus OH
+581,2012,March 16 2012,Midwest,Second Round,12 South Florida,58,5 Temple,44,,+14,Nashville TN
+582,2012,March 16 2012,South,Second Round,10 Xavier,67,7 Notre Dame,63,,+4,Greensboro NC
+583,2012,March 15 2012,South,Second Round,3 Baylor,68,14 South Dakota State,60,,+8,Albuquerque NM
+584,2012,March 15 2012,South,Second Round,11 Colorado,68,6 UNLV,64,,+4,Albuquerque NM
+585,2012,March 15 2012,East,Second Round,7 Gonzaga,77,10 West Virginia,54,,+23,Pittsburgh PA
+586,2012,March 15 2012,South,Second Round,4 Indiana,79,13 New Mexico State,66,,+13,Portland OR
+587,2012,March 15 2012,South,Second Round,8 Iowa State,77,9 UConn,64,,+13,Louisville KY
+588,2012,March 15 2012,East,Second Round,8 Kansas State,70,9 Southern Miss,64,,+6,Pittsburgh PA
+589,2012,March 15 2012,South,Second Round,1 Kentucky,81,16 Western Kentucky,66,,+15,Louisville KY
+590,2012,March 15 2012,West,Second Round,4 Louisville,69,13 Davidson,62,,+7,Portland OR
+591,2012,March 15 2012,West,Second Round,3 Marquette,88,14 BYU,68,,+20,Louisville KY
+592,2012,March 15 2012,West,Second Round,6 Murray State,58,11 Colorado State,41,,+17,Louisville KY
+593,2012,March 15 2012,West,Second Round,5 New Mexico,75,12 Long Beach State,68,,+7,Portland OR
+594,2012,March 15 2012,East,Second Round,2 Ohio State,78,15 Loyola (MD),59,,+19,Pittsburgh PA
+595,2012,March 15 2012,East,Second Round,1 Syracuse,72,16 UNC Asheville,65,,+7,Pittsburgh PA
+596,2012,March 15 2012,East,Second Round,5 Vanderbilt,79,12 Harvard,70,,+9,Albuquerque NM
+597,2012,March 15 2012,South,Second Round,12 VCU,62,5 Wichita State,59,,+3,Portland OR
+598,2012,March 15 2012,East,Second Round,4 Wisconsin,73,13 Montana,49,,+24,Albuquerque NM
+599,2012,March 14 2012,Midwest,First Round,12 South Florida,65,12 California,54,,+11,Dayton OH
+600,2012,March 14 2012,Midwest,First Round,16 Vermont,71,16 Lamar,59,,+12,Dayton OH
+601,2012,March 13 2012,West,First Round,14 BYU,78,14 Iona,72,,+6,Dayton OH
+602,2012,March 13 2012,South,First Round,16 Western Kentucky,59,16 Mississippi Valley State,58,,+1,Dayton OH
+603,2011,April 4 2011,National,National Final,3 UConn,53,8 Butler,41,,+12,Houston TX
+604,2011,April 2 2011,National,National Semifinal,8 Butler,70,11 VCU,62,,+8,Houston TX
+605,2011,April 2 2011,National,National Semifinal,3 UConn,56,4 Kentucky,55,,+1,Houston TX
+606,2011,March 27 2011,East,Regional Final,4 Kentucky,76,2 UNC,69,,+7,Newark NJ
+607,2011,March 27 2011,Southwest,Regional Final,11 VCU,71,1 Kansas,61,,+10,San Antonio TX
+608,2011,March 26 2011,Southeast,Regional Final,8 Butler,74,2 Florida,71,OT,+3,New Orleans LA
+609,2011,March 26 2011,West,Regional Final,3 UConn,65,5 Arizona,63,,+2,Anaheim CA
+610,2011,March 25 2011,Southwest,Regional Semifinal,1 Kansas,77,12 Richmond,57,,+20,San Antonio TX
+611,2011,March 25 2011,East,Regional Semifinal,4 Kentucky,62,1 Ohio State,60,,+2,Newark NJ
+612,2011,March 25 2011,East,Regional Semifinal,2 UNC,81,11 Marquette,63,,+18,Newark NJ
+613,2011,March 25 2011,Southwest,Regional Semifinal,11 VCU,72,10 Florida State,71,OT,+1,San Antonio TX
+614,2011,March 24 2011,West,Regional Semifinal,5 Arizona,93,1 Duke,77,,+16,Anaheim CA
+615,2011,March 24 2011,Southeast,Regional Semifinal,8 Butler,61,4 Wisconsin,54,,+7,New Orleans LA
+616,2011,March 24 2011,West,Regional Semifinal,3 UConn,74,2 San Diego State,67,,+7,Anaheim CA
+617,2011,March 24 2011,Southeast,Regional Semifinal,2 Florida,83,3 BYU,74,OT,+9,New Orleans LA
+618,2011,March 20 2011,West,Third Round,5 Arizona,70,4 Texas,69,,+1,Tulsa OK
+619,2011,March 20 2011,West,Third Round,1 Duke,73,8 Michigan,71,,+2,Charlotte NC
+620,2011,March 20 2011,Southwest,Third Round,10 Florida State,71,2 Notre Dame,57,,+14,Chicago IL
+621,2011,March 20 2011,Southwest,Third Round,1 Kansas,73,9 Illinois,59,,+14,Tulsa OK
+622,2011,March 20 2011,East,Third Round,11 Marquette,66,3 Syracuse,62,,+4,Cleveland OH
+623,2011,March 20 2011,East,Third Round,2 UNC,86,7 Washington,83,,+3,Charlotte NC
+624,2011,March 20 2011,East,Third Round,1 Ohio State,98,8 George Mason,66,,+32,Cleveland OH
+625,2011,March 20 2011,Southwest,Third Round,11 VCU,94,3 Purdue,76,,+18,Chicago IL
+626,2011,March 19 2011,Southeast,Third Round,3 BYU,89,11 Gonzaga,67,,+22,Denver CO
+627,2011,March 19 2011,Southeast,Third Round,8 Butler,71,1 Pitt,70,,+1,Washington DC
+628,2011,March 19 2011,West,Third Round,3 UConn,69,6 Cincinnati,58,,+11,Washington DC
+629,2011,March 19 2011,Southeast,Third Round,2 Florida,73,7 UCLA,65,,+8,Tampa FL
+630,2011,March 19 2011,East,Third Round,4 Kentucky,71,5 West Virginia,63,,+8,Tampa FL
+631,2011,March 19 2011,Southwest,Third Round,12 Richmond,65,13 Morehead State,48,,+17,Denver CO
+632,2011,March 19 2011,West,Third Round,2 San Diego State,71,7 Temple,64,2OT,+7,Tucson AZ
+633,2011,March 19 2011,Southeast,Third Round,4 Wisconsin,70,5 Kansas State,65,,+5,Tucson AZ
+634,2011,March 18 2011,West,Second Round,5 Arizona,77,12 Memphis,75,,+2,Tulsa OK
+635,2011,March 18 2011,West,Second Round,1 Duke,87,16 Hampton,45,,+42,Charlotte NC
+636,2011,March 18 2011,Southwest,Second Round,10 Florida State,57,7 Texas A&M,50,,+7,Chicago IL
+637,2011,March 18 2011,East,Second Round,8 George Mason,61,9 Villanova,57,,+4,Cleveland OH
+638,2011,March 18 2011,Southwest,Second Round,9 Illinois,73,8 UNLV,62,,+11,Tulsa OK
+639,2011,March 18 2011,Southwest,Second Round,1 Kansas,72,16 Boston University,53,,+19,Tulsa OK
+640,2011,March 18 2011,East,Second Round,11 Marquette,66,6 Xavier,55,,+11,Cleveland OH
+641,2011,March 18 2011,West,Second Round,8 Michigan,75,9 Tennessee,45,,+30,Charlotte NC
+642,2011,March 18 2011,East,Second Round,2 UNC,102,15 LIU,87,,+15,Charlotte NC
+643,2011,March 18 2011,Southwest,Second Round,2 Notre Dame,69,15 Akron,56,,+13,Chicago IL
+644,2011,March 18 2011,East,Second Round,1 Ohio State,75,16 UTSA,46,,+29,Cleveland OH
+645,2011,March 18 2011,Southwest,Second Round,3 Purdue,65,14 St. Peter's,43,,+22,Chicago IL
+646,2011,March 18 2011,East,Second Round,3 Syracuse,77,14 Indiana State,60,,+17,Cleveland OH
+647,2011,March 18 2011,West,Second Round,4 Texas,85,13 Oakland,81,,+4,Tulsa OK
+648,2011,March 18 2011,Southwest,Second Round,11 VCU,74,6 Georgetown,56,,+18,Chicago IL
+649,2011,March 18 2011,East,Second Round,7 Washington,68,10 Georgia,65,,+3,Charlotte NC
+650,2011,March 17 2011,Southeast,Second Round,3 BYU,74,14 Wofford,66,,+8,Denver CO
+651,2011,March 17 2011,Southeast,Second Round,8 Butler,60,9 Old Dominion,58,,+2,Washington DC
+652,2011,March 17 2011,West,Second Round,6 Cincinnati,78,11 Missouri,63,,+15,Washington DC
+653,2011,March 17 2011,West,Second Round,3 UConn,81,14 Bucknell,52,,+29,Washington DC
+654,2011,March 17 2011,Southeast,Second Round,2 Florida,79,15 UCSB,51,,+28,Tampa FL
+655,2011,March 17 2011,Southeast,Second Round,11 Gonzaga,86,6 St. John's (NY),71,,+15,Denver CO
+656,2011,March 17 2011,Southeast,Second Round,5 Kansas State,73,12 Utah State,68,,+5,Tucson AZ
+657,2011,March 17 2011,East,Second Round,4 Kentucky,59,13 Princeton,57,,+2,Tampa FL
+658,2011,March 17 2011,Southwest,Second Round,13 Morehead State,62,4 Louisville,61,,+1,Denver CO
+659,2011,March 17 2011,Southeast,Second Round,1 Pitt,74,16 UNC Asheville,51,,+23,Washington DC
+660,2011,March 17 2011,Southwest,Second Round,12 Richmond,69,5 Vanderbilt,66,,+3,Denver CO
+661,2011,March 17 2011,West,Second Round,2 San Diego State,68,15 Northern Colorado,50,,+18,Tucson AZ
+662,2011,March 17 2011,West,Second Round,7 Temple,66,10 Penn State,64,,+2,Tucson AZ
+663,2011,March 17 2011,Southeast,Second Round,7 UCLA,78,10 Michigan State,76,,+2,Tampa FL
+664,2011,March 17 2011,East,Second Round,5 West Virginia,84,12 Clemson,76,,+8,Tampa FL
+665,2011,March 17 2011,Southeast,Second Round,4 Wisconsin,72,13 Belmont,58,,+14,Tucson AZ
+666,2011,March 16 2011,East,First Round,16 UTSA,70,16 Alabama State,61,,+9,Dayton OH
+667,2011,March 16 2011,Southwest,First Round,11 VCU,59,11 USC,46,,+13,Dayton OH
+668,2011,March 15 2011,East,First Round,12 Clemson,70,12 Alabama-Birmingham,52,,+18,Dayton OH
+669,2011,March 15 2011,Southeast,First Round,16 UNC Asheville,81,16 Little Rock,77,OT,+4,Dayton OH
+670,2010,April 5 2010,National,National Final,1 Duke,61,5 Butler,59,,+2,Indianapolis IN
+671,2010,April 3 2010,National,National Semifinal,5 Butler,52,5 Michigan State,50,,+2,Indianapolis IN
+672,2010,April 3 2010,National,National Semifinal,1 Duke,78,2 West Virginia,57,,+21,Indianapolis IN
+673,2010,March 28 2010,South,Regional Final,1 Duke,78,3 Baylor,71,,+7,Houston TX
+674,2010,March 28 2010,Midwest,Regional Final,5 Michigan State,70,6 Tennessee,69,,+1,St. Louis MO
+675,2010,March 27 2010,West,Regional Final,5 Butler,63,2 Kansas State,56,,+7,Salt Lake City UT
+676,2010,March 27 2010,East,Regional Final,2 West Virginia,73,1 Kentucky,66,,+7,Syracuse NY
+677,2010,March 26 2010,South,Regional Semifinal,3 Baylor,72,10 Saint Mary's,49,,+23,Houston TX
+678,2010,March 26 2010,South,Regional Semifinal,1 Duke,70,4 Purdue,57,,+13,Houston TX
+679,2010,March 26 2010,Midwest,Regional Semifinal,5 Michigan State,59,9 Northern Iowa,52,,+7,St. Louis MO
+680,2010,March 26 2010,Midwest,Regional Semifinal,6 Tennessee,76,2 Ohio State,73,,+3,St. Louis MO
+681,2010,March 25 2010,West,Regional Semifinal,5 Butler,63,1 Syracuse,59,,+4,Salt Lake City UT
+682,2010,March 25 2010,West,Regional Semifinal,2 Kansas State,101,6 Xavier,96,2OT,+5,Salt Lake City UT
+683,2010,March 25 2010,East,Regional Semifinal,1 Kentucky,62,12 Cornell,45,,+17,Syracuse NY
+684,2010,March 25 2010,East,Regional Semifinal,2 West Virginia,69,11 Washington,56,,+13,Syracuse NY
+685,2010,March 21 2010,East,Second Round,12 Cornell,87,4 Wisconsin,69,,+18,Jacksonville FL
+686,2010,March 21 2010,South,Second Round,1 Duke,68,8 California,53,,+15,Jacksonville FL
+687,2010,March 21 2010,Midwest,Second Round,5 Michigan State,85,4 Maryland,83,,+2,Spokane WA
+688,2010,March 21 2010,Midwest,Second Round,2 Ohio State,75,10 Georgia Tech,66,,+9,Milwaukee WI
+689,2010,March 21 2010,South,Second Round,4 Purdue,63,5 Texas A&M,61,OT,+2,Spokane WA
+690,2010,March 21 2010,West,Second Round,1 Syracuse,87,8 Gonzaga,65,,+22,Buffalo NY
+691,2010,March 21 2010,East,Second Round,2 West Virginia,68,10 Missouri,59,,+9,Buffalo NY
+692,2010,March 21 2010,West,Second Round,6 Xavier,71,3 Pitt,68,,+3,Milwaukee WI
+693,2010,March 20 2010,South,Second Round,3 Baylor,76,11 Old Dominion,68,,+8,New Orleans LA
+694,2010,March 20 2010,West,Second Round,5 Butler,54,13 Murray State,52,,+2,San Jose CA
+695,2010,March 20 2010,West,Second Round,2 Kansas State,84,7 BYU,72,2OT,+12,Oklahoma City OK
+696,2010,March 20 2010,East,Second Round,1 Kentucky,90,9 Wake Forest,60,,+30,New Orleans LA
+697,2010,March 20 2010,Midwest,Second Round,9 Northern Iowa,69,1 Kansas,67,,+2,Oklahoma City OK
+698,2010,March 20 2010,South,Second Round,10 Saint Mary's,75,2 Villanova,68,,+7,Providence RI
+699,2010,March 20 2010,Midwest,Second Round,6 Tennessee,83,14 Ohio,68,,+15,Providence RI
+700,2010,March 20 2010,East,Second Round,11 Washington,82,3 New Mexico,64,,+18,San Jose CA
+701,2010,March 19 2010,South,First Round,8 California,77,9 Louisville,62,,+15,Jacksonville FL
+702,2010,March 19 2010,East,First Round,12 Cornell,78,5 Temple,65,,+13,Jacksonville FL
+703,2010,March 19 2010,South,First Round,1 Duke,73,16 Arkansas-Pine Bluff,44,,+29,Jacksonville FL
+704,2010,March 19 2010,Midwest,First Round,10 Georgia Tech,64,7 Oklahoma State,59,,+5,Milwaukee WI
+705,2010,March 19 2010,West,First Round,8 Gonzaga,67,9 Florida State,60,,+7,Buffalo NY
+706,2010,March 19 2010,Midwest,First Round,4 Maryland,89,13 Houston,77,,+12,Spokane WA
+707,2010,March 19 2010,Midwest,First Round,5 Michigan State,70,12 New Mexico State,67,,+3,Spokane WA
+708,2010,March 19 2010,East,First Round,10 Missouri,86,7 Clemson,78,,+8,Buffalo NY
+709,2010,March 19 2010,Midwest,First Round,2 Ohio State,68,15 UCSB,51,,+17,Milwaukee WI
+710,2010,March 19 2010,West,First Round,3 Pitt,89,14 Oakland,66,,+23,Milwaukee WI
+711,2010,March 19 2010,South,First Round,4 Purdue,72,13 Siena,64,,+8,Spokane WA
+712,2010,March 19 2010,West,First Round,1 Syracuse,79,16 Vermont,56,,+23,Buffalo NY
+713,2010,March 19 2010,South,First Round,5 Texas A&M,69,12 Utah State,53,,+16,Spokane WA
+714,2010,March 19 2010,East,First Round,2 West Virginia,77,15 Morgan State,50,,+27,Buffalo NY
+715,2010,March 19 2010,East,First Round,4 Wisconsin,53,13 Wofford,49,,+4,Jacksonville FL
+716,2010,March 19 2010,West,First Round,6 Xavier,65,11 Minnesota,54,,+11,Milwaukee WI
+717,2010,March 18 2010,South,First Round,3 Baylor,68,14 Sam Houston State,59,,+9,New Orleans LA
+718,2010,March 18 2010,West,First Round,7 BYU,99,10 Florida,92,2OT,+7,Oklahoma City OK
+719,2010,March 18 2010,West,First Round,5 Butler,77,12 UTEP,59,,+18,San Jose CA
+720,2010,March 18 2010,Midwest,First Round,1 Kansas,90,16 Lehigh,74,,+16,Oklahoma City OK
+721,2010,March 18 2010,West,First Round,2 Kansas State,82,15 North Texas,62,,+20,Oklahoma City OK
+722,2010,March 18 2010,East,First Round,1 Kentucky,100,16 ETSU,71,,+29,New Orleans LA
+723,2010,March 18 2010,West,First Round,13 Murray State,66,4 Vanderbilt,65,,+1,San Jose CA
+724,2010,March 18 2010,East,First Round,3 New Mexico,62,14 Montana,57,,+5,San Jose CA
+725,2010,March 18 2010,Midwest,First Round,9 Northern Iowa,69,8 UNLV,66,,+3,Oklahoma City OK
+726,2010,March 18 2010,Midwest,First Round,14 Ohio,97,3 Georgetown,83,,+14,Providence RI
+727,2010,March 18 2010,South,First Round,11 Old Dominion,51,6 Notre Dame,50,,+1,New Orleans LA
+728,2010,March 18 2010,South,First Round,10 Saint Mary's,80,7 Richmond,71,,+9,Providence RI
+729,2010,March 18 2010,Midwest,First Round,6 Tennessee,62,11 San Diego State,59,,+3,Providence RI
+730,2010,March 18 2010,South,First Round,2 Villanova,73,15 Robert Morris,70,OT,+3,Providence RI
+731,2010,March 18 2010,East,First Round,9 Wake Forest,81,8 Texas,80,OT,+1,New Orleans LA
+732,2010,March 18 2010,East,First Round,11 Washington,80,6 Marquette,78,,+2,San Jose CA
+733,2010,March 16 2010,South,Opening Round,16 Arkansas-Pine Bluff,61,16 Winthrop,44,,+17,Dayton OH
