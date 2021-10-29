@@ -12,6 +12,7 @@ def read_csv(filename):
 
 # Fixes mismatched names between the two spreadsheets
 def fix_school_name(name):
+    name = name.replace(' NCAA', '')
     if name == 'Southern California':
         return 'USC'
     if name == 'Brigham Young':
@@ -85,12 +86,17 @@ def is_missing(name):
 def main():
     # Creates a map of maps that allows you to filter by year, then team, then opponent
     # to find if they won or lost
-    game_results = read_csv('Game Results.csv')[1:]
+    game_results = read_csv('Game Results.csv')
+    game_results_header = game_results[0]
+    game_results = game_results[1:]
+
+    index_school_name = game_results_header.index('School')
+    index_opponent_name = game_results_header.index('Opponent')
     results_dict = dict()
     for row in game_results:
         year = row[1]
-        winner = row[5].split(' ', 1)[1]
-        loser = row[7].split(' ', 1)[1]
+        winner = row[index_school_name].split(' ', 1)[1]
+        loser = row[index_opponent_name].split(' ', 1)[1]
 
         if not year in results_dict:
             results_dict[year] = dict()
@@ -105,31 +111,37 @@ def main():
     # all of their stats for that year
     stats = read_csv('Team Stats.csv')
     stats_header = stats[1]
-    stats = read_csv('Team Stats.csv')[2:]
+    stats = stats[2:]
+
+    index_school_name = stats_header.index('School')
     stats_dict = dict()
     for row in stats:
         year = row[0]
-        team = fix_school_name(row[2].replace(' NCAA', ''))
+        team = fix_school_name(row[index_school_name])
         if not year in stats_dict:
             stats_dict[year] = dict()
         stats_dict[year][team] = row
 
     # index of column in CSV with stat
-    index_win_percentage            = stats_header.index('W-L%')
-    index_sos                       = stats_header.index('SOS')
-    index_total_points_scored       = stats_header.index('Tm.')
-    index_total_points_allowed      = stats_header.index('Opp.')
-    index_games_played              = stats_header.index('G')
-    index_field_goal_percentage     = stats_header.index('FG%')
-    index_three_point_percentage    = stats_header.index('3P%')
-    index_free_throw_percentage     = stats_header.index('FT%')
-    index_offensive_rebounds        = stats_header.index('ORB')
-    index_total_rebounds            = stats_header.index('TRB')
-    index_total_assists             = stats_header.index('AST')
-    index_total_steals              = stats_header.index('STL')
-    index_total_blocks              = stats_header.index('BLK')
-    index_total_turnovers           = stats_header.index('TOV')
-    index_total_personal_fouls      = stats_header.index('PF')
+    indexes_unnormalized = {
+        'W-L%': stats_header.index('W-L%'),
+        'SOS': stats_header.index('SOS'),
+        'FG%': stats_header.index('FG%'),
+        '3P%': stats_header.index('3P%'),
+        'FT%': stats_header.index('FT%'),
+    }
+    indexes_normalized = {
+        'PPG': stats_header.index('Tm.'),
+        'Allowed PPG': stats_header.index('Opp.'),
+        'ORB': stats_header.index('ORB'),
+        'Rebounds': stats_header.index('TRB'),
+        'Assists': stats_header.index('AST'),
+        'Steals': stats_header.index('STL'),
+        'Blocks': stats_header.index('BLK'),
+        'Turnovers': stats_header.index('TOV'),
+        'PF': stats_header.index('PF'),
+    }
+    index_games_played = stats_header.index('G')
 
     # Go through each game and calculate the difference in various stats bewteen the winning and losing teams
     # Save strings with data formatted for CSV files in adjusted_data
@@ -141,52 +153,39 @@ def main():
                 if is_missing(team1) or is_missing(team2):
                     continue
 
-                num_games_1 = float(stats_dict[year][team1][index_games_played])
-                num_games_2 = float(stats_dict[year][team2][index_games_played])
+                stats_team1 = stats_dict[year][team1]
+                stats_team2 = stats_dict[year][team2]
+
+                num_games_1 = float(stats_team1[index_games_played])
+                num_games_2 = float(stats_team2[index_games_played])
+
+                diff = []
+                for curr_stat in indexes_unnormalized:
+                    index = indexes_unnormalized[curr_stat]
+                    diff.append(float(stats_team1[index]) - float(stats_team2[index]))
+                for curr_stat in indexes_normalized:
+                    index = indexes_normalized[curr_stat]
+                    diff.append((float(stats_team1[index]) / num_games_1) - (float(stats_team2[index]) / num_games_2))
                 did_team1_win = results_dict[year][team1][team2]
-
-                # Normalize by number of games and find difference
-                diff_win_percentage = float(stats_dict[year][team1][index_win_percentage]) \
-                    - float(stats_dict[year][team2][index_win_percentage])
-                diff_strength_of_schedule = float(stats_dict[year][team1][index_sos]) \
-                    - float(stats_dict[year][team2][index_sos])
-                diff_points = (float(stats_dict[year][team1][index_total_points_scored]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_points_scored]) / num_games_2)
-                diff_points_allowed = (float(stats_dict[year][team1][index_total_points_allowed]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_points_allowed]) / num_games_2)
-                diff_field_goal_percentage = float(stats_dict[year][team1][index_field_goal_percentage]) \
-                    - float(stats_dict[year][team2][index_field_goal_percentage])
-                diff_three_point_percentage = float(stats_dict[year][team1][index_three_point_percentage]) \
-                    - float(stats_dict[year][team2][index_three_point_percentage])
-                diff_free_throw_percentage = float(stats_dict[year][team1][index_free_throw_percentage]) \
-                    - float(stats_dict[year][team2][index_free_throw_percentage])
-                diff_offensive_rebounds = (float(stats_dict[year][team1][index_offensive_rebounds]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_offensive_rebounds]) / num_games_2)
-                diff_rebounds = (float(stats_dict[year][team1][index_total_rebounds]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_rebounds]) / num_games_2)
-                diff_assists = (float(stats_dict[year][team1][index_total_assists]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_assists]) / num_games_2)
-                diff_steals = (float(stats_dict[year][team1][index_total_steals]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_steals]) / num_games_2)
-                diff_blocks = (float(stats_dict[year][team1][index_total_blocks]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_blocks]) / num_games_2)
-                diff_turnovers = (float(stats_dict[year][team1][index_total_turnovers]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_turnovers]) / num_games_2)
-                diff_fouls = (float(stats_dict[year][team1][index_total_personal_fouls]) / num_games_1) \
-                    - (float(stats_dict[year][team2][index_total_personal_fouls]) / num_games_2)
-
-                adjusted_data.append('{:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:f}, {:b}'.format( \
-                    diff_win_percentage, diff_strength_of_schedule, diff_points, diff_points_allowed, diff_field_goal_percentage, \
-                    diff_three_point_percentage, diff_free_throw_percentage, diff_offensive_rebounds, diff_rebounds, diff_assists, \
-                    diff_steals, diff_blocks, diff_turnovers, diff_fouls, did_team1_win))
+                diff.append(did_team1_win)
+                adjusted_data.append(diff)
 
     # Output array containing desired data to csv
     original_stdout = sys.stdout
     with open('Adjusted Data.csv', 'w') as f:
         sys.stdout = f
-        print("Win%, SOS, PPG, APPG, FG%, 3P%, FT%, ORB, Rebounds, Assists, Steals, Blocks, Turnovers, PF, Output (1 for win, 0 for loss)")
-        for i in range(len(adjusted_data)):
-            print(adjusted_data[i])
+        for curr_stat in indexes_unnormalized:
+            print('{:s},'.format(curr_stat), end='')
+        for curr_stat in indexes_normalized:
+            print('{:s},'.format(curr_stat), end='')
+
+        print('Output (win=1 loss=0)')
+        for row in adjusted_data:
+            for i, value in enumerate(row):
+                if i == len(row)-1:
+                    print('{:b}'.format(value))
+                else:
+                    print('{:f},'.format(value), end='')
     sys.stdout = original_stdout
     pass
 
